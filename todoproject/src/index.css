@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Bạn có thể thêm các style tuỳ chỉnh của mình ở đây nếu cần.
+  Ví dụ: đặt font chữ chung nếu muốn, mặc dù Tailwind đã xử lý.
+*/
+body {
+  font-family: 'Inter', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

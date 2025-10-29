@@ -1,0 +1,9 @@
+{
+  "todos": [
+    {
+      "id": "2",
+      "text": "Nghiên cứu Tailwind CSS",
+      "done": true
+    }
+  ]
+}

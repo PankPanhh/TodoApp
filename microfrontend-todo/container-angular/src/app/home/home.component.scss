@@ -1,0 +1,15 @@
+/* Home component styles */
+button {
+  transition: all 0.3s ease;
+}
+
+button:hover {
+  background: #1d4ed8 !important;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(37, 99, 235, 0.4);
+}
+
+ul li {
+  margin: 0.5rem 0;
+  font-size: 1rem;
+}
